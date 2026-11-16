@@ -6,11 +6,11 @@ Matrix products: default
   LAPACK version 3.12.1
 
 locale:
-[1] LC_COLLATE=C                            
-[2] LC_CTYPE=Chinese (Simplified)_China.utf8
-[3] LC_MONETARY=C                           
-[4] LC_NUMERIC=C                            
-[5] LC_TIME=C                               
+[1] LC_COLLATE=Chinese (Simplified)_China.utf8 
+[2] LC_CTYPE=Chinese (Simplified)_China.utf8   
+[3] LC_MONETARY=Chinese (Simplified)_China.utf8
+[4] LC_NUMERIC=C                               
+[5] LC_TIME=Chinese (Simplified)_China.utf8    
 
 time zone: America/Los_Angeles
 tzcode source: internal
@@ -22,4 +22,5 @@ other attached packages:
 [1] limma_3.68.5
 
 loaded via a namespace (and not attached):
-[1] compiler_4.6.1 tools_4.6.1    splines_4.6.1  statmod_1.5.2 
+[1] BiocManager_1.30.27 compiler_4.6.1      tools_4.6.1        
+[4] splines_4.6.1       statmod_1.5.2      
