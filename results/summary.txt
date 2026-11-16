@@ -1,0 +1,15 @@
+GSE5281 hippocampal LCM neuronal expression: exploratory limma exercise
+Downloaded source: https://ftp.ncbi.nlm.nih.gov/geo/series/GSE5nnn/GSE5281/matrix/GSE5281_series_matrix.txt.gz
+Input MD5: 15b785f0e1db5e223337fe8785313363
+Raw signal quantiles: 0% 0.108; 25% 12.837; 50% 49.093; 75% 150.995; 99% 3457.816; 100% 144365.83
+Primary samples: 12 control, 10 AD
+Excluded ambiguous age: GSM119628 85 days
+Tested probes: 54613
+Primary BH FDR < .05 probes: 6171
+Without additional quantile normalization BH FDR < .05: 7055
+Same 22 samples, sex only BH FDR < .05: 6115
+All 23 samples, sex only BH FDR < .05: 6684
+LogFC Spearman correlation, with vs without additional normalization: 0.9720
+No gene-level aggregation, batch correction, external validation, or causal inference performed.
+Source processed intensities used; original normalization history is not documented in the matrix processing field.
+No claim of replicating Wan et al.; this is a separate, much smaller microarray exercise.
